@@ -1,0 +1,21 @@
+.star-rating {
+    display: flex;
+  }
+  
+  .star {
+    font-size: 20px;
+    color: #f39c12; 
+  }
+  
+  .star.full {
+    color: #f39c12;
+  }
+  
+  .star.half {
+    color: #f39c12;
+  }
+  
+  .star.empty {
+    color: #bdc3c7; 
+  }
+  
